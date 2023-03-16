@@ -1,0 +1,16 @@
+<svg version="1.1"
+     width="300" height="200"
+     xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 300 200">
+
+  <rect width="100%" height="100%" fill="#424242" /> <!-- rectangle dimension 100% size -->
+
+  <circle cx="150" cy="100" r="80" fill="#531515" /> <!--posizione centro x y su dimensione. raggio. fill -->
+
+  <text x="150" y="125" font-size="60" text-anchor="middle" fill="white">coconut</text>
+
+</svg>
+
+<!--
+    viewbox="0 0 100 100" permette di ridimensionare l'SVG sul piano (xmin ymin xmax ymax. Non dipende piu dalla width height che do all'svg)
+ -->
